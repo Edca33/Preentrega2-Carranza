@@ -1,0 +1,41 @@
+
+.navbar {
+    background-color: rgb(235, 14, 117);
+}
+
+#carouselExampleFade{
+    width: 70%;
+    
+    
+}
+
+.carousel-item img {
+
+    height: 789px;
+
+
+}
+
+i {
+    font-size: 30px;
+    color: deeppink;
+}
+
+
+
+
+.container-fluid{
+    color: rgb(4, 15, 24);
+}
+
+
+
+
+.lenceria{
+    text-align: center;
+}
+
+.lead {
+    color: rgb(6, 3, 30);
+    font-weight: 600 ;
+}
